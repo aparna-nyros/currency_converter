@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AwesomeProject</string>
+    <string name="font_name_source_sans_pro">lato_medium.ttf</string>
 </resources>

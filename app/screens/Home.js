@@ -30,9 +30,9 @@ class Home extends Component {
     isFetching: PropTypes.bool,
     primaryColor: PropTypes.string,
   };
-  // componentDidMount() {
-  //   SplashScreen.hide()
-  // }
+  componentDidMount() {
+    SplashScreen.hide()
+  }
   componentWillMount() {
 //getIntialConversion function will be called from currencies.js file in actions.
     this.props.dispatch(getIntialConversion());

@@ -1,4 +1,4 @@
-# currency_converter
+# Currency Converter
 
 A react native app to convert currency for both Android and IOS.Theme of the application is to know the currency values of all countries. And also we know the currency difference between different countries.
 Using this app we can change the color of overall app through themes section in options screen.

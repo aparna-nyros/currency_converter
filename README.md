@@ -26,6 +26,9 @@ $ cd my-app
 
 #### Runs your app in development mode.
 
+##### Start the Server
+To start the server, open terminal and run `react-native start --port=PORTNUMBER`
+
 ##### IOS
 To run the app on ios, open Simulator or conenct your phone and run `react-native run-ios`
 
